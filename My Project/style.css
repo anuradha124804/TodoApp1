@@ -1,0 +1,37 @@
+body{
+   background:url(https://th.bing.com/th/id/Rdbac566ab49bcc2de27c052e7bb3e2d3?rik=FEt1W5dROU2zhw&riu=http%3a%2f%2fwww.hdwallpaperspulse.com%2fwp-content%2fuploads%2f2016%2f11%2f02%2fwidescreen-hd-wallpaper.jpg&ehk=woK9ha3It8EIjYuJriQCq6xNb5OGn2Wj%2bIKjR3AJ%2bHs%3d&risl=&pid=ImgRaw);
+   background-size:1000px;
+   background-position: center;
+}
+
+.login-box{
+   max-width:700px;
+   float: none;
+   margin:150px auto;
+   
+}
+
+.login-left{
+   background: rgba(211,211,211,211,0.5);
+   padding:30px;
+}
+
+.login-right{
+   background:  rgba(211,211,211,211,0.5);
+   padding: 30px;
+ 
+}
+h1{
+text-position: center;
+background-color:lime;
+}
+
+
+
+
+.form-control{
+   background-color:transparent;
+}
+.container{
+  border:black;
+}
